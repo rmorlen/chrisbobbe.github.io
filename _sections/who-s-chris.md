@@ -1,5 +1,5 @@
 ---
-title: Who's Chris?
+title: Who's Randy?
 icon: fa-question
 order: 2
 ---
