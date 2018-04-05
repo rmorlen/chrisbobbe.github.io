@@ -1,22 +1,22 @@
-title: Chris Bobbe
-subtitle: Web Developer
-description: Website and portfolio of Chris Bobbe, front-end web developer.
+title: Randy Molren
+subtitle: Tech
+description: Blog of Randy Morlen.
 
-author: Chris Bobbe
-email: csbobbe@gmail.com
+author: Randy Morlen
+email: rrmtx07@gmail
 avatar: assets/images/avatar.jpg
 
 baseurl: ""
-url: "https://chrisbobbe.github.io"
+url: "https://rmorlen.github.io"
 
 # Social settings
-facebook_url: https://www.facebook.com/chris.bobbe
-github_url: https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
-twitter_url: https://twitter.com/chrisbobbe
+facebook_url: https://www.facebook.com/rmorlen
+github_url: https://github.com/rmorlen
+linkedin_url: https://www.linkedin.com/in/rmorlen/
+twitter_url: https://twitter.com/rmorlen
 
 # SEO settiongs
-google_analytics: UA-112211352-1
+google_analytics: 
 
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
